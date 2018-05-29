@@ -5,6 +5,6 @@ using namespace std;
 int main(int, char**)
 {
 	string a = "Hello world!";
-	cout<< a<<endl;
+	cout<< a.length()<<endl;
 	return 0;
 }
